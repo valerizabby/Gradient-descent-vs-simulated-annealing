@@ -8,7 +8,7 @@
 
 В работе рассматривается случай N = 2, график: 
 
-
+![Image alt](https://github.com/valerizabby/Gradient-descent-vs-simulated-annealing/raw/master/picture/3D-graphic.png)
 
 При решении задачи:
 - реализован алгоритм градиентного спуска
